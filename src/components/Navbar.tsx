@@ -25,7 +25,7 @@ const Navbar = () => {
       <Container>
         <BsNavbar.Brand href="#" className="fw-bold d-flex align-items-center">
           <img 
-            src="/images/NKTECH.png" 
+            src="/images/NK_Tech.png"
             alt="NK Tech" 
             height="60" 
             className="me-2" 
