@@ -12,7 +12,7 @@ const Services = () => {
       description: 'Secure, scalable cloud on AWS, Azure & GCP tailored to your needs.'
     },
     {
-      title: 'Monitoring & Security',
+      title: 'Security & Monitoring',
       description: 'Grafana, Prometheus, and Zero Trust setups for your peace of mind.'
     }
   ];
